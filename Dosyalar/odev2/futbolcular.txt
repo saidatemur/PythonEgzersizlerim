@@ -1,0 +1,33 @@
+Fernando Muslera,Galatasaray
+Atiba Hutchinson,Beşiktaş
+Simon Kjaer,Fenerbahçe
+Mauro Icardi,Galatasaray
+Josef de Souza,Beşiktaş
+Robin van Persie,Fenerbahçe
+Bafétimbi Gomis,Galatasaray
+Ricardo Quaresma,Beşiktaş
+Diego Ribas,Fenerbahçe
+Kerem Aktürkoğlu,Galatasaray
+Cenk Tosun,Beşiktaş
+Mehmet Topal,Fenerbahçe
+Wesley Sneijder,Galatasaray
+Oğuzhan Özyakup,Beşiktaş
+Alex de Souza,Fenerbahçe
+Arda Turan,Galatasaray
+Demba Ba,Beşiktaş
+Volkan Demirel,Fenerbahçe
+Felipe Melo,Galatasaray
+Domagoj Vida,Beşiktaş
+Dirk Kuyt,Fenerbahçe
+Didier Drogba,Galatasaray
+Gökhan Töre,Beşiktaş
+Emre Belözoğlu,Fenerbahçe
+Younès Belhanda,Galatasaray
+Vincent Aboubakar,Beşiktaş
+Miroslav Stoch,Fenerbahçe
+Sofiane Feghouli,Galatasaray
+Necip Uysal,Beşiktaş
+Alper Potuk,Fenerbahçe
+Juan Mata,Galatasaray
+Anderson Talisca,Beşiktaş
+Mert Hakan Yandaş,Fenerbahçe
