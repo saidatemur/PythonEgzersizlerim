@@ -32,11 +32,14 @@ def verilari_al3(yayinevi):
     for i in liste:
         print(i)
 
-def veriyi_guncelle():
-    cursor.execute("UPDATE kitaplik SET Yayinevi='Everest' WHERE Isim='Istanbul Hatirasi' AND Yazar='Ahmet Umit' ")
+def veriyi_guncelle(eski_yayin, yeni_yayin):
+    cursor.execute("UPDATE kitaplik SET Yayinevi=? WHERE Yayinevi=? ",(yeni_yayin,eski_yayin))
     con.commit()
    
+def veriyi_sil(yazar):
+    cursor.execute("DELETE FROM kitaplik WHERE Yazar=?",(yazar,))
+    con.commit()
 
-veriyi_guncelle()
+veriyi_sil("Ahmet Umit")
 verileri_al()
 con.close()
